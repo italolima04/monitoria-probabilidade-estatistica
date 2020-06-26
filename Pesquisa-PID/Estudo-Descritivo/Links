@@ -1,0 +1,13 @@
+***LINKS PARA AS PLATAFORMAS / DADOS***
+
+// Plataforma Brasil.io
+https://brasil.io/home/
+
+//Dados Globais - Casos Confirmados
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+
+//Dados Globais - Mortes
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+
+//Dados Globais - Recuperados
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
